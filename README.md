@@ -6,6 +6,6 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://pooranandkrishna.life/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://pooranandkrishna.life/"><img src="./assets/img/pooran.jpeg" /></a>
 </details>
 
